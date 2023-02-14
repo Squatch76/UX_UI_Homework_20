@@ -1,0 +1,46 @@
+/* .display-4 h1{
+    background-color: lightblue;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} */
+/* .jumbotron {
+background-image: url("../images/blueprint_images.jpg");
+background-size: cover;
+height: 100%;} */
+
+/* .table-bordeless {
+    padding-bottom: 100px;
+} */
+
+.red {
+    color: white;
+    background-color: red;
+    text-align: left;
+}
+
+.green {
+    color: white;
+    background-color: green;
+}
+
+.blue {
+    color: white;
+    background-color: blue;
+    text-align: left;
+}
+#hero {
+    background-image: url("../images/Snowy\ buffalo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    height: 75vh;
+}
+.display-6 {
+    text-align: center;
+}
+.container2 {
+    background-image: url("../images/home\ wireframe.png");
+}
+#carouselExampleControls {
+    color: #000;
+}
+
